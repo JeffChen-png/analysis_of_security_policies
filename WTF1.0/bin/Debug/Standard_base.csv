@@ -1,0 +1,127 @@
+5,001;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoViewOnDrive;67108863
+5,002;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoViewContextMenu;1
+5,003;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoWinKeys;1
+5,004;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Network:NoEntireNetwork;1
+5,005;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoComputersNearMe;1
+5,006;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:ClassicShell;1
+5,007;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:RestrictWelcomeCenter;1
+5,008;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:PreventItemCreationInUsersFilesFolder;1
+5,009;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoDrives;67108863
+5,010;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoManageMyComputerVerb;1
+5,011;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoSharedDocuments;1
+5,012;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoSecurityTab;1
+5,013;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoHardwareTab;1
+5,014;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoFolderOptions;1
+5,015;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoShellSearchButton;1
+5,016;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoNetConnectDisconnect;1
+5,017;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoFileMenu;1
+5,018;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Comdlg32:NoBackButton;1
+5,019;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Comdlg32:NoPlacesBar;1
+5,020;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Comdlg32:NoFileMru;1
+5,021;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoDriveTypeAutoRun;255
+5,022;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoClose;1
+5,023;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoFind;1
+5,024;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoRun;1
+5,025;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoControlPanel;1
+5,026;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoSetFolders;1
+5,027;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoAddPrinter;1
+5,028;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoDeletePrinter;1
+5,029;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\NonEnum:{20D04FE0-3AEA-1069-A2D8-08002B30309D};1
+5,030;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoInternetIcon;1
+5,031;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoNetHood;1
+5,032;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\NonEnum:{645FF040-5081-101B-9F08-00AA002F954E};1
+5,033;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Group Policy Objects\{450D8FBA-AD25-11D0-98A8-0800361B1103};1
+5,034;HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Windows\System:DisableCMD;1
+5,035;HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Windows\System:DisableCMD;1
+5,036;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:DisallowRun;1
+5,036;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\DisallowRun:1;Iexplore.exe
+5,036;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\DisallowRun:2;powershell.exe
+5,036;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\DisallowRun:3;notepad.exe
+5,036;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\DisallowRun:4;wordpad.exe
+5,037;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System:DisableRegistryTools;2
+5,038;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System:DisableTaskMgr;1
+5,039;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System:DisableLockWorkstation;1
+5,040;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System:DisableChangePassword;1
+5,041;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoCommonGroups;1
+5,042;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoWindowsUpdate;1
+5,043;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoUserFolderInStartMenu;1
+5,044;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoFavoritesMenu;1
+5,045;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoStartMenuMyGames;1
+5,046;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoStartMenuMFUprogramsList;1
+5,047;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoSMHelp;1
+5,048;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoStartMenuMorePrograms;0
+5,049;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoStartMenuPinnedList;1
+5,050;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoRecentDocsMenu;1
+5,051;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoSMMyDocs;1
+5,052;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoStartMenuMyMusic;1
+5,053;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoStartMenuNetworkPlaces;1
+5,054;HKEY_CURRENT_USER\SOFTWARE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoSMConfigurePrograms;1
+5,055;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoSMMyPictures;1
+5,056;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoSearchCommInStartMenu;1
+5,057;;
+5,058;HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Windows\Explorer:NoSearchEverywhereLinkInStartMenu;1
+5,059;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoSearchFilesInStartMenu;1
+5,060;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoSearchInternetInStartMenu;1
+5,061;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoSearchProgramsInStartMenu;1
+5,062;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoSetTaskbar;1
+5,063;HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Windows\Explorer:NoStartMenuDownloads;1
+5,064;HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Windows\Explorer:NoStartMenuHomegroup;1
+5,065;HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Windows\Explorer:NoStartMenuRecordedTV;1
+5,066;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoStartMenuSubFolders;1
+5,067;HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Windows\Explorer:NoStartMenuVideos;1
+5,068;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoTrayItemsDisplay;1
+5,069;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:QuickLaunchEnabled;1
+5,070;;
+5,071;HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Windows\Explorer:NoPinningToTaskbar;1
+5,072;HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Windows\Explorer:TaskbarNoPinnedList;1
+5,073;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:TaskbarLockAll;1
+5,074;HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Windows\Explorer:AddSearchInternetLinkInStartMenu;0
+5,075;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:TaskbarNoAddRemoveToolbar;1
+5,076;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoTrayContextMenu;1
+5,077;HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Windows\Explorer:NoPinningToDestinations;1
+5,078;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:TaskbarNoResize;1
+5,079;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:TaskbarNoDragToolbar;1
+5,080;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:TaskbarNoRedock;1
+5,081;HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Windows\Explorer:NoRemoteDestinations;1
+5,082;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoToolbarsOnTaskbar;1
+5,083;HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Windows\Explorer:NoSystraySystemPromotion;1
+5,084;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:TaskbarNoNotification;1
+5,085;HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Windows\Explorer:NoBalloonFeatureAdvertisements;1
+5,086;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:TaskbarNoThumbnail;1
+5,087;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:HideSCAVolume;1
+5,088;HKEY_CURRENT_USER\SOFTWARE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:HideSCANetwork;1
+5,089;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:HideSCAPower;1
+5,090;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoNetworkConnections;1
+5,091;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoStartMenuEjectPC;1
+5,092;;
+5,093;;
+5,094;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoCloseDragDropBands;1
+5,095;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:NoMovingBands;1
+5,096;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer:DisablePersonalDirChange;1
+5,097;HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Windows\Sidebar:TurnOffSidebar;1
+5,098;HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU:NoAutoUpdate;1
+5,099;HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\setup\recoveryconsole:securitylevel;0
+5,100;HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\setup\recoveryconsole:setcommand;0
+8,001;HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Windows\RemovableStorageDevices:Deny_All;1
+4,001;secedit /export /cfg c:\secpol.cfg | MinimumPasswordLength = ;10
+4,002;secedit /export /cfg c:\secpol.cfg | PasswordComplexity = ;1
+4,003;secedit /export /cfg c:\secpol.cfg | PasswordHistorySize =;4
+4,004;secedit /export /cfg c:\secpol.cfg | MaximumPasswordAge =;-1
+4,005;secedit /export /cfg c:\secpol.cfg | LockoutBadCount =;0
+4,006;secedit /export /cfg c:\secpol.cfg | ClearTextPassword =;0
+4,007;;
+4,008;HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Windows\Control Panel\Desktop:ScreenSaveTimeOut;600
+4,009;HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Windows\Control Panel\Desktop:ScreenSaveActive;1
+4,010;HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Windows\Control Panel\Desktop:ScreenSaveTimeOut;0
+4,011;HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Windows\Control Panel\Desktop:ScreenSaveActive;0
+9,001;HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa:SCENoApplyLegacyAuditPolicy;1
+9,002;AuditPol /backup /file:c:\auditpolicy.csv | Проверка учетных данных,{0CCE923F-69AE-11D9-BED3-505054503030},;0
+9,003;AuditPol /backup /file:c:\auditpolicy.csv | Служба проверки подлинности Kerberos,{0CCE9242-69AE-11D9-BED3-505054503030},;0
+9,004;AuditPol /backup /file:c:\auditpolicy.csv | Операции с билетами службы Kerberos,{0CCE9240-69AE-11D9-BED3-505054503030},;0
+9,005;AuditPol /backup /file:c:\auditpolicy.csv | Другие события входа учетных записей,{0CCE9241-69AE-11D9-BED3-505054503030},;1
+9,006;AuditPol /backup /file:c:\auditpolicy.csv | Управление учетными записями,{0CCE9235-69AE-11D9-BED3-505054503030},;3
+9,007;AuditPol /backup /file:c:\auditpolicy.csv | Управление учетной записью компьютера,{0CCE9236-69AE-11D9-BED3-505054503030},;0
+9,008;AuditPol /backup /file:c:\auditpolicy.csv | Управление группой приложений,{0CCE9239-69AE-11D9-BED3-505054503030},;0
+9,009;AuditPol /backup /file:c:\auditpolicy.csv | Управление группой распространения,{0CCE9238-69AE-11D9-BED3-505054503030},;1
+9,010;AuditPol /backup /file:c:\auditpolicy.csv | Управление группой безопасности,{0CCE9237-69AE-11D9-BED3-505054503030},;0
+9,011;AuditPol /backup /file:c:\auditpolicy.csv | Другие события управления учетной записью,{0CCE923A-69AE-11D9-BED3-505054503030},;1
